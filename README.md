@@ -67,3 +67,6 @@ Berdasarkan hasil tersebut, sistem dapat memberikan rekomendasi pengadaan barang
 - **Frontend:** HTML, CSS, JavaScript
 - **Template UI:** AdminLTE
 - **Database:** MySQL
+
+## UI Dashboard Web
+<img width="1902" height="876" alt="image" src="https://github.com/user-attachments/assets/f254ce18-66f2-4a0a-aeb1-02761134040a" />
